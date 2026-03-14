@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+Frontend/node_modules/
+Model/node_modules/
+
+# Environment
+.env
+
+# History
+.history/
