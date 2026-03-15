@@ -1,0 +1,30 @@
+{
+  "agents": [
+    {
+      "agent_id": 122712,
+      "name": "Nabeel Ahmad",
+      "session": {
+        "start_time": "10/02/2025 09:00:00 AM",
+        "end_time": "10/02/2025 06:00:00 PM"
+      },
+      "schedule": {
+        "start_time": "10/02/2025 09:00:00 AM",
+        "end_time": "10/02/2025 06:00:00 PM"
+      },
+      
+      "system": {
+        "start_time": "10/02/2025 09:10:00 AM",
+        "end_time": "10/02/2025 06:00:00 PM"
+      },
+      "agent_disputed": {
+        "start_time": "10/02/2025 09:00:00 AM",
+        "end_time": "10/02/2025 06:00:00 PM"
+      },
+      "supervisor": {
+        "status": "Pending Review",
+        "dispute_decision": null
+      }
+    }
+    
+  ]
+}
